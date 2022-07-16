@@ -8003,3 +8003,23 @@ body.has-fixed-footer .main-content {
     margin-bottom: 0 !important;
   }
 }
+.softwares {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  background: #179ac1;
+  border-radius: 6px;
+  border: 2px solid #179ac1;
+}
+.softwares:hover{
+  border: 2px solid #fff;
+}
+.cogs{
+  font-size: 20px;
+} 
+.fa-cogs{
+  font-size: 50px;
+}
+.fa-user{
+  font-size: 50px;
+}
