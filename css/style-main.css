@@ -1349,7 +1349,7 @@ section > .container-fluid {
   padding: 0;
 }
 .modern-header:not(.modern-header-nav-autopadding) .menuzord-menu > li > a {
-  padding: 25px 30px;
+  padding: 25px 15px;
 }
 .modern-header.modern-header-white .header-nav .header-nav-wrapper:not(.scroll-to-fixed-fixed) nav {
   background: #fff;
@@ -1512,7 +1512,7 @@ section > .container-fluid {
   color: #666666;
   font-size: 13px;
   font-weight: 600;
-  padding: 7px 25px 7px 22px;
+  padding: 3px 20px 3px 20px;
 }
 .menuzord-menu ul.dropdown li .indicator {
   top: 4px;
