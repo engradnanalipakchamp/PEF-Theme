@@ -551,6 +551,9 @@ ul.list {
   margin-top: 13px;
   padding-left: 0;
 }
+ul.useful-links{
+  margin-top: 45px;
+}
 ul.list li {
   margin: 5px 0;
   font-weight: 500;
