@@ -1346,7 +1346,7 @@ section > .container-fluid {
   padding: 0;
 }
 .modern-header:not(.modern-header-nav-autopadding) .menuzord-menu > li > a {
-  padding: 25px 30px;
+  padding: 25px 15px;
 }
 .modern-header.modern-header-white .header-nav .header-nav-wrapper:not(.scroll-to-fixed-fixed) nav {
   background: #fff;
